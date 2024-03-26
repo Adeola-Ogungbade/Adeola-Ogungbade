@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adeola Ogungbade
-- 👀 I’m interested in Python programming and data science 
-- 🌱 I’m currently learning python and data science 
+- 👀 I’m interested in Frontend Development
+- 🌱 I’m currently learning Next Js and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adeoladeborah19@gmail.com 
 
