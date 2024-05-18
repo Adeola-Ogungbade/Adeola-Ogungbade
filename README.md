@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Adeola Ogungbade
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Next Js and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me adeoladeborah19@gmail.com 
+- Reach me @adeoladeborah19@gmail.com 
 
 <!---
 Adeola-Ogungbade/Adeola-Ogungbade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
