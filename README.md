@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adeola Ogungbade
+- 👋 Hi, I’m @Deola
 - Reach me @adeoladeborah19@gmail.com 
 
 <!---
