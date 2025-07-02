@@ -42,4 +42,4 @@ I'm an innovative Frontend Developer focused on building beautiful, fast, and ac
 
 ---
 
-_Thanks for visiting my profile! Feel free to check out my repos, give feedback, or connect._ 😊
+_Thanks for visiting my profile!😊
